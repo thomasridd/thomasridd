@@ -25,10 +25,10 @@ Delivered the Census 2021 data platform, handling one of the largest data releas
 
 ### 📈 By the numbers
 
-10+ years in software engineering
-Multiple award-winning government digital services
-Millions of users served by platforms I've built
-Zero major incidents on services I've led (touch wood 🤞)
+- 10+ years in software engineering
+- Multiple award-winning government digital services
+- Millions of users served by platforms I've built
+- Zero major incidents on services I've led (touch wood 🤞)
 
 💼 Background
 
