@@ -6,21 +6,30 @@ Currently tech leading data engineering projects at HMCTS, building live reporti
 ### 🛠️ My toolkit
 I believe in strong architectural fundamentals over technology trends, but here's what I've been coding with lately:
 
-Languages: Python, TypeScript/JavaScript, Java, Go, Kotlin
-Architecture: Domain Driven Design, CQRS, Microservices
-Cloud: AWS, Azure (including Azure Fabric for big data)
-Data: SQL, GraphQL, data engineering pipelines
-AI/ML: Amazon Bedrock, IBM AI Developer Certification, building user-centered AI experiences
+**Languages:** Python, TypeScript/JavaScript, Java, Go, Kotlin
+
+**Architecture:** Domain Driven Design, CQRS, Microservices
+
+**Cloud:** AWS, Azure (including Azure Fabric for big data)
+
+**Data:** SQL, GraphQL, data engineering pipelines
+
+**AI/ML:** Amazon Bedrock, IBM AI Developer Certification, building user-centered AI experiences
 
 ### 🎯 What drives me
 User-centered engineering - Technology should solve real problems for real people. Whether it's helping vulnerable citizens access support during a pandemic or making government data accessible to everyone from researchers to curious citizens.
+
 Leading through complexity - I've rescued failed projects, built award-winning services under extreme pressure, and helped teams navigate the messiness of government digital transformation.
+
 Growing people and communities - Currently mentoring 4 developers and leading our Software Engineering community of practice. There's nothing quite like watching someone level up their skills.
 
 ### 🏆 Things I'm proud of
 Built the COVID-19 Shielding Service at GDS - an award-winning service that supported vulnerable people during lockdown
+
 Led the Ethnicity Facts and Figures platform - bringing together all UK government ethnicity data in an accessible way
+
 Created AI prototypes now being used across multiple government departments
+
 Delivered the Census 2021 data platform, handling one of the largest data releases in UK government history
 
 ### 📈 By the numbers
