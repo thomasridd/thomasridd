@@ -42,4 +42,5 @@ Delivered the Census 2021 data platform, handling one of the largest data releas
 💼 Background
 
 MSc Management Science & Operational Research (Distinction) - University of Warwick
+
 BSc Applied Mathematics (2:1) - University of Warwick
