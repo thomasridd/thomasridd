@@ -1,6 +1,6 @@
 ## Hi there, I'm Tom 👋
 ### Senior Technical Lead | Building systems that matter
-I'm passionate about creating technology that genuinely serves people's needs. With 10+ years in software engineering, I've led teams building everything from AI assistants that help families navigate complex legal advice to critical COVID-19 support services used by millions.
+With 10+ years in software engineering, I've led and been part of teams building everything from AI assistants that help families navigate complex legal advice to critical COVID-19 support services used by millions.
 ### 🚀 What I'm working on
 Currently tech leading data engineering projects at HMCTS, building live reporting services that turn operational chaos into actionable insights. Recently wrapped up an AI assistant prototype for family law that users said helped them find in one step what they'd been searching for weeks.
 ### 🛠️ My toolkit
